@@ -117,6 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The [Flask](https://flask.palletsprojects.com/) framework for the web application.
 - [Bootstrap](https://getbootstrap.com/) for styling.
 
-## Contact
-
-For questions or feedback, please contact Joseph Crowley at joseph.crowley@example.com.
